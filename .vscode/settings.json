@@ -1,0 +1,17 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "emmet.syntaxProfiles": {
+        "javascript": "jsx"
+    },
+    "jshint.options":{
+        "esversion": 6
+    }
+,
+"window.zoomLevel": 2,
+"files.associations": {
+    "*.js": "typescriptreact"
+},
+ // The number of spaces a tab is equal to. This setting is overriden based on the file contents when `editor.detectIndentation` is on.
+    "editor.tabSize": 2
+
+}
